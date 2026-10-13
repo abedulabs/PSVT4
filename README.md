@@ -1,27 +1,18 @@
-# Diorama Kota Ceria — GitHub Pages
+# Diorama Kota Ceria — Medieval 3D Isometrik
 
-Simulator interaktif Pendidikan Seni Visual dalam Bahasa Melayu dengan tapak kota medieval 3D isometrik dengan istana dan bangunan berwarna-warni.
+Simulator PSV interaktif untuk GitHub Pages.
 
-## Kandungan
-- Tab 1: bina bandar isometrik menggunakan drag-and-drop (komputer) atau pilih item kemudian sentuh petak (telefon/tablet).
-- Tab 2: 10 soalan objektif, 10 markah.
-- Tab 3: apresiasi karya sendiri, 10 markah.
-- Tab akhir: jumlah 50 markah dan popup medal emas/perak/gangsa.
-- Nama murid dan kelas untuk paparan pencapaian.
+- Tapak kota 3D isometrik dengan grid.
+- Koleksi aset bandar berwarna-warni yang boleh dipilih dan diletakkan.
+- Aset vektor SVG dengan saiz, warna dan bentuk berbeza: istana, menara, rumah, kedai, gereja, tembok, gerbang, pasar, jambatan, pokok, air pancut dan banyak lagi.
+- Seret objek untuk mengalihkannya; kawalan putar, pantul, salin dan padam.
+- Tab kuiz, apresiasi seni dan pencapaian dikekalkan.
+- Panduan markah bawah simulator dibuang seperti diminta.
 
-## Cara muat naik ke GitHub Pages
-1. Muat turun dan ekstrak fail ZIP.
-2. Buka GitHub dan cipta repository baharu, contohnya `diorama-kota-ceria`.
-3. Muat naik `index.html` dan `README.md` ke root repository.
-4. Pergi ke **Settings → Pages**.
-5. Di bahagian **Build and deployment**, pilih **Deploy from a branch**.
-6. Pilih branch `main` dan folder `/(root)`, kemudian tekan **Save**.
-7. Tunggu GitHub Pages menerbitkan pautan laman.
+## Pasang ke GitHub Pages
+1. Ekstrak ZIP.
+2. Muat naik `index.html` dan `README.md` ke root repository.
+3. Buka **Settings → Pages**.
+4. Pilih **Deploy from a branch**, branch `main`, folder `/(root)`, kemudian Save.
 
-## Nota pemarkahan
-- Bandar: 5–20 item = 30 markah; 4 item = 15 markah; 1–3 item = 5 markah; kosong = 0.
-- Kuiz: 1 markah bagi setiap jawapan betul.
-- Apresiasi: markah automatik berdasarkan istilah unsur seni/prinsip rekaan yang dikenal pasti serta panjang penerangan. Semakan automatik ialah panduan; guru boleh menyemak jawapan murid.
-- Medal: 40–50 emas (Cemerlang), 25–39 perak (Maju Jaya), 0–24 gangsa (Usaha Lagi).
-
-Semua markah disimpan dalam sesi pelayar semasa sahaja; tiada pangkalan data atau leaderboard.
+Nota: aset bangunan dilukis sebagai SVG vektor dalam fail HTML, jadi tidak perlu muat turun imej tambahan. Markah disimpan dalam sesi pelayar sahaja.
