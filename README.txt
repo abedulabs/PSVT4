@@ -1,11 +1,7 @@
-Diorama Kota Ceria 3D - Lencana Pencapaian dan Semakan Kuiz
+Diorama Kota Ceria 3D — kemas kini visual aset dan lencana
 
-Kemas kini:
-- Lencana pencapaian gaya perisai dengan kemasan emas, perak dan gangsa; tiada teks "Pedang Emas/Perak/Gangsa" pada popup.
-- Kuiz mempunyai butang Semak Jawapan yang menunjukkan maklum balas bagi setiap soalan dan markah /10.
-- Fungsi simulator, aset, apresiasi seni visual dan tetapan asal dikekalkan.
+Kandungan: index.html (semua aset terbenam dalam fail ini).
 
-Cara kemas kini GitHub Pages:
-1. Ekstrak ZIP.
-2. Gantikan index.html dalam repository dengan index.html ini.
-3. Commit changes.
+Kemas kini: variasi istana dan menara merah/biru/kuning; tambahan pokok bulat, pokok renek berbunga, semak dan bunga hiasan; lencana pencapaian penuh dengan hiasan biru pada perisai dan pemegang pedang; palet warna krim, hijau dan biru. Fungsi simulator, seret-letak, kawalan binaan, kuiz, semak jawapan, apresiasi seni visual dan pencapaian dikekalkan.
+
+Untuk GitHub Pages: muat naik index.html dan README.txt daripada ZIP ini ke repositori yang sama, gantikan index.html lama.
