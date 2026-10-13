@@ -1,6 +1,6 @@
 # Diorama Kota Ceria — GitHub Pages
 
-Simulator interaktif Pendidikan Seni Visual dalam Bahasa Melayu.
+Simulator interaktif Pendidikan Seni Visual dalam Bahasa Melayu dengan tapak bandar 3D isometrik bergaya diorama.
 
 ## Kandungan
 - Tab 1: bina bandar isometrik menggunakan drag-and-drop (komputer) atau pilih item kemudian sentuh petak (telefon/tablet).
