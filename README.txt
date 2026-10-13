@@ -1,12 +1,11 @@
-Diorama Kota Ceria 3D — kemas kini saiz aset
+Diorama Kota Ceria 3D - Lencana Pencapaian dan Semakan Kuiz
 
-Perubahan:
-- Istana utama kini lebih besar dan lebih menonjol daripada rumah.
-- Tiga jenis rumah dikecilkan supaya skala bandar lebih jelas.
-- Rumah kekal tanpa pagar; fungsi dan kandungan lain dikekalkan.
-- Tab kuiz, apresiasi seni visual, pencapaian, dan fungsi simulator dikekalkan.
+Kemas kini:
+- Lencana pencapaian gaya perisai dengan kemasan emas, perak dan gangsa; tiada teks "Pedang Emas/Perak/Gangsa" pada popup.
+- Kuiz mempunyai butang Semak Jawapan yang menunjukkan maklum balas bagi setiap soalan dan markah /10.
+- Fungsi simulator, aset, apresiasi seni visual dan tetapan asal dikekalkan.
 
 Cara kemas kini GitHub Pages:
 1. Ekstrak ZIP.
-2. Gantikan index.html dalam repository GitHub Pages.
-3. Commit changes dan muat semula laman.
+2. Gantikan index.html dalam repository dengan index.html ini.
+3. Commit changes.
