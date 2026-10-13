@@ -1,17 +1,12 @@
-DIORAMA KOTA CERIA 3D — VERSI TAB PEMBELAJARAN PSV
+Diorama Kota Ceria 3D — kemas kini saiz aset
 
-Kandungan:
-- Simulator diorama Kota Ceria 3D asal dikekalkan.
-- Tab Kuiz PSV: 10 soalan objektif, 10 markah, semakan automatik.
-- Tab Apresiasi Seni Visual: 5 unsur seni dan 5 prinsip rekaan, 10 markah berdasarkan kelengkapan jawapan.
-- Tab Pencapaian: anugerah berdasarkan bilangan aset yang diletakkan.
-  > 5 aset: Pedang Emas (Cemerlang)
-  4–5 aset: Pedang Perak (Teruskan usaha)
-  0–3 aset: Pedang Gangsa (Usaha lagi)
+Perubahan:
+- Istana utama kini lebih besar dan lebih menonjol daripada rumah.
+- Tiga jenis rumah dikecilkan supaya skala bandar lebih jelas.
+- Rumah kekal tanpa pagar; fungsi dan kandungan lain dikekalkan.
+- Tab kuiz, apresiasi seni visual, pencapaian, dan fungsi simulator dikekalkan.
 
-Pemasangan GitHub Pages:
+Cara kemas kini GitHub Pages:
 1. Ekstrak ZIP.
-2. Muat naik index.html ke root repository GitHub Pages dan gantikan versi lama.
-3. Commit changes, kemudian buka semula laman.
-
-Nota: markah Apresiasi Seni Visual dikira berdasarkan 10 ruangan yang diisi; guru boleh menilai kualiti jawapan secara berasingan. Data jawapan kekal pada sesi halaman semasa sahaja.
+2. Gantikan index.html dalam repository GitHub Pages.
+3. Commit changes dan muat semula laman.
