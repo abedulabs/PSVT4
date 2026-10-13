@@ -1,12 +1,13 @@
-DIORAMA KOTA CERIA 3D
-Simulator bina bandar medieval untuk aktiviti PSV.
+Diorama Kota Ceria 3D — Kemas kini aset sahaja
 
-Ciri:
-- Tapak binaan 3D isometrik dan latar bertema kota.
-- 16 aset 3D: istana, menara, gerbang, tembok, rumah, kedai, jambatan, taman dan hiasan.
-- Seret aset terus dari katalog ke tapak; pada telefon boleh sentuh aset kemudian sentuh tapak.
-- Pilih objek untuk seret/alih, putar, pantul, salin atau padam.
-- Zoom, putar paparan, undo/redo, simpan setempat, eksport/import projek JSON dan cetak/simpan PDF.
-- Hanya simulator diorama; tiada kuiz, markah atau tab aktiviti tambahan.
+Kandungan: index.html
 
-Muat naik index.html ke root repository GitHub Pages.
+Kemas kini aset yang diminta tanpa mengubah fungsi simulator yang lain:
+- 1 istana utama besar dengan banyak menara
+- 1 menara pengawal silinder tinggi, bumbung kon dan bendera
+- 3 jenis rumah
+- Tembok batu kiri dan kanan
+- Paving stone, lampu jalan, jambatan kayu, masjid, pokok pagar dan pokok pine
+- Ferris wheel fun fair, roller coaster dan swimming pool
+
+Upload index.html ke root repository GitHub Pages seperti biasa.
